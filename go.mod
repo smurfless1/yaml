@@ -1,4 +1,4 @@
-module github.com/polkeli/yaml/v3
+module github.com/smurfless1/yaml/v3
 
 go 1.20
 
